@@ -1,0 +1,11 @@
+
+
+let names :string[] = ['sehar','manahil','bisma','numra'] ;
+
+for(let i=0; i<names.length; i++){
+
+
+console.log(names[i]) ;
+
+
+}
